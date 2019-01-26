@@ -1,0 +1,1545 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-01-25T16:09:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 88802787,
+  "lat": 59.9650795,
+  "lon": 30.3126901,
+  "tags": {
+    "colour": "blue",
+    "name": "Петроградская",
+    "name:de": "Petrogradskaja",
+    "name:en": "Petrogradskaya",
+    "name:fi": "Petrogradskaja",
+    "name:ru": "Петроградская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1900080",
+    "wikipedia": "ru:Петроградская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 88803981,
+  "lat": 59.9551564,
+  "lon": 30.3194568,
+  "tags": {
+    "colour": "blue",
+    "name": "Горьковская",
+    "name:de": "Gorkowskaja",
+    "name:en": "Gor'kovskaya",
+    "name:fi": "Gorkovskaja",
+    "name:ru": "Горьковская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q970832",
+    "wikipedia": "ru:Горьковская (станция метро, Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 88833360,
+  "lat": 59.9508051,
+  "lon": 30.2899117,
+  "tags": {
+    "colour": "purple",
+    "name": "Спортивная",
+    "name:de": "Sportiwnaja",
+    "name:en": "Sportivnaya",
+    "name:fi": "Sportivnaja",
+    "name:ru": "Спортивная",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "1997-09-15",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2352075"
+  }
+},
+{
+  "type": "node",
+  "id": 88833366,
+  "lat": 59.9599153,
+  "lon": 30.2923054,
+  "tags": {
+    "colour": "purple",
+    "name": "Чкаловская",
+    "name:de": "Tschkalowskaja",
+    "name:en": "Chkalovskaya",
+    "name:fi": "Tškalovskaja",
+    "name:ru": "Чкаловская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2455482"
+  }
+},
+{
+  "type": "node",
+  "id": 90551453,
+  "lat": 60.0179314,
+  "lon": 30.3181589,
+  "tags": {
+    "colour": "blue",
+    "name": "Удельная",
+    "name:de": "Udelnaja",
+    "name:en": "Udel'naya",
+    "name:fi": "Udelnaja",
+    "name:ru": "Удельная",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "website": "http://www.metro.spb.ru/",
+    "wikidata": "Q2734724",
+    "wikipedia": "ru:Удельная (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 91264383,
+  "lat": 59.9710378,
+  "lon": 30.2611300,
+  "tags": {
+    "colour": "purple",
+    "name": "Крестовский остров",
+    "name:de": "Kreuzinsel",
+    "name:en": "Krestovskiy Ostrov",
+    "name:fi": "Krestovski ostrov",
+    "name:ru": "Крестовский остров",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2711654"
+  }
+},
+{
+  "type": "node",
+  "id": 91264384,
+  "lat": 59.9881566,
+  "lon": 30.2555213,
+  "tags": {
+    "colour": "purple",
+    "name": "Старая Деревня",
+    "name:de": "Staraja Derewnaja",
+    "name:en": "Staraya Derevnya",
+    "name:fi": "Staraja Derevnja",
+    "name:ru": "Старая Деревня",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2711531"
+  }
+},
+{
+  "type": "node",
+  "id": 92580819,
+  "lat": 59.9276034,
+  "lon": 30.3193825,
+  "tags": {
+    "colour": "purple",
+    "name": "Садовая",
+    "name:de": "Sadowaja",
+    "name:en": "Sadovaya",
+    "name:fi": "Sadovaja",
+    "name:ru": "Садовая",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2315663"
+  }
+},
+{
+  "type": "node",
+  "id": 94516905,
+  "lat": 60.0094283,
+  "lon": 30.2575166,
+  "tags": {
+    "colour": "purple",
+    "name": "Комендантский проспект",
+    "name:de": "Komendantski Prospekt",
+    "name:en": "Komendantskiy Prospekt",
+    "name:fi": "Komendantski Prospekt",
+    "name:ru": "Комендантский проспект",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wheelchair": "limited",
+    "wikidata": "Q2566876"
+  }
+},
+{
+  "type": "node",
+  "id": 94857612,
+  "lat": 59.9259772,
+  "lon": 30.3200465,
+  "tags": {
+    "colour": "blue",
+    "name": "Сенная площадь",
+    "name:de": "Sennaja Ploschtschad",
+    "name:en": "Sennaya Ploshchad",
+    "name:fi": "Sennaja Ploštšad",
+    "name:ru": "Сенная площадь",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2278336"
+  }
+},
+{
+  "type": "node",
+  "id": 94858991,
+  "lat": 59.9277613,
+  "lon": 30.3458352,
+  "tags": {
+    "colour": "orange",
+    "name": "Достоевская",
+    "name:de": "Dostojewskaja",
+    "name:en": "Dostoyevskaya",
+    "name:fi": "Dostojevskaja",
+    "name:ru": "Достоевская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1251119"
+  }
+},
+{
+  "type": "node",
+  "id": 94877075,
+  "lat": 59.9207320,
+  "lon": 30.3556508,
+  "tags": {
+    "colour": "orange",
+    "name": "Лиговский проспект",
+    "name:de": "Ligowski-Prospekt",
+    "name:en": "Ligovskiy Prospekt",
+    "name:fi": "Ligovski Prospekt",
+    "name:ru": "Лиговский проспект",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2535646"
+  }
+},
+{
+  "type": "node",
+  "id": 94890886,
+  "lat": 59.9233521,
+  "lon": 30.3868253,
+  "tags": {
+    "colour": "green",
+    "name": "Площадь Александра Невского 1",
+    "name:de": "Ploschtschad Alexandra Newskogo-1",
+    "name:en": "Ploschad' Alexandra Nevskogo-1",
+    "name:es": "Ploshchad' Aleksanra Nevskogo 1",
+    "name:fi": "Ploštšad Aleksandra Nevskogo 1",
+    "name:ru": "Площадь Александра Невского 1",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1281082"
+  }
+},
+{
+  "type": "node",
+  "id": 94891390,
+  "lat": 59.9295980,
+  "lon": 30.4151991,
+  "tags": {
+    "colour": "orange",
+    "name": "Новочеркасская",
+    "name:de": "Nowotscherkasskaja",
+    "name:en": "Novocherkasskaya",
+    "name:fi": "Novotšerkasskaja",
+    "name:ru": "Новочеркасская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2503771",
+    "wikipedia": "ru:Новочеркасская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 94896142,
+  "lat": 59.9315338,
+  "lon": 30.4424016,
+  "tags": {
+    "colour": "orange",
+    "name": "Ладожская",
+    "name:de": "Ladoschskaja",
+    "name:en": "Ladozhskaya",
+    "name:fi": "Ladožskaja",
+    "name:ru": "Ладожская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2205836"
+  }
+},
+{
+  "type": "node",
+  "id": 96449579,
+  "lat": 59.9872292,
+  "lon": 30.3009567,
+  "tags": {
+    "colour": "blue",
+    "name": "Чёрная речка",
+    "name:de": "Tschornaja Retschka",
+    "name:en": "Chyornaya Reckka",
+    "name:fi": "Tšornaja Retška",
+    "name:ru": "Чёрная речка",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q82393"
+  }
+},
+{
+  "type": "node",
+  "id": 96453108,
+  "lat": 60.0043174,
+  "lon": 30.2963437,
+  "tags": {
+    "colour": "blue",
+    "name": "Пионерская",
+    "name:de": "Pionerskaja",
+    "name:en": "Pionerskaya",
+    "name:fi": "Pionerskaja",
+    "name:ru": "Пионерская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q748709"
+  }
+},
+{
+  "type": "node",
+  "id": 96459081,
+  "lat": 60.0354511,
+  "lon": 30.3210663,
+  "tags": {
+    "colour": "blue",
+    "name": "Озерки",
+    "name:de": "Oserki",
+    "name:en": "Ozerki",
+    "name:fi": "Ozerki",
+    "name:ru": "Озерки",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2241386",
+    "wikipedia": "ru:Озерки (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 97036546,
+  "lat": 59.9299533,
+  "lon": 30.3589882,
+  "tags": {
+    "colour": "red",
+    "name": "Площадь Восстания",
+    "name:de": "Ploschtschad Wosstanija",
+    "name:en": "vosstaniya square",
+    "name:fi": "Ploštšad Vosstanija",
+    "name:ru": "Площадь Восстания",
+    "name:zh": "该地区的叛乱",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1509584"
+  }
+},
+{
+  "type": "node",
+  "id": 158694484,
+  "lat": 60.0503169,
+  "lon": 30.4426694,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Привокзальная площадь",
+    "colour": "red",
+    "int_name": "Devyatkino",
+    "name": "Девяткино",
+    "name:de": "Dewjatkino",
+    "name:en": "Devyatkino",
+    "name:fi": "Devjatkino",
+    "name:ru": "Девяткино",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "website": "http://www.metro.spb.ru/",
+    "wikidata": "Q2316625",
+    "wikipedia": "ru:Девяткино (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 211439601,
+  "lat": 59.9091008,
+  "lon": 30.4818197,
+  "tags": {
+    "colour": "orange",
+    "name": "Улица Дыбенко",
+    "name:de": "Uliza Dybenko",
+    "name:en": "Ulitsa Dybenko",
+    "name:fi": "Ulitsa Dybenko",
+    "name:ru": "Улица Дыбенко",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2711640"
+  }
+},
+{
+  "type": "node",
+  "id": 211439603,
+  "lat": 59.9215756,
+  "lon": 30.4653320,
+  "tags": {
+    "colour": "orange",
+    "name": "Проспект Большевиков",
+    "name:de": "Prospekt Bolschewikow",
+    "name:en": "Prospekt Bol'shevikov",
+    "name:fi": "Prospekt Bolševikov",
+    "name:ru": "Проспект Большевиков",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2570734"
+  }
+},
+{
+  "type": "node",
+  "id": 248088101,
+  "lat": 59.8308399,
+  "lon": 30.5002908,
+  "tags": {
+    "colour": "green",
+    "name": "Рыбацкое",
+    "name:de": "Rybazkoje",
+    "name:en": "Rybatskoye",
+    "name:fi": "Rybatskoje",
+    "name:ru": "Рыбацкое",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2536740"
+  }
+},
+{
+  "type": "node",
+  "id": 248088210,
+  "lat": 59.8498292,
+  "lon": 30.4598459,
+  "tags": {
+    "colour": "green",
+    "name": "Обухово",
+    "name:de": "Obuchowo",
+    "name:en": "Obukhovo",
+    "name:fi": "Obuhovo",
+    "name:ru": "Обухово",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2321113",
+    "wikipedia": "ru:Обухово (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 249302441,
+  "lat": 59.8788174,
+  "lon": 30.4401471,
+  "tags": {
+    "colour": "green",
+    "name": "Ломоносовская",
+    "name:de": "Lomonossowskaja",
+    "name:en": "Lomonosovskaya",
+    "name:fi": "Lomonosovskaja",
+    "name:ru": "Ломоносовская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2710207",
+    "wikipedia": "ru:Ломоносовская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 249304980,
+  "lat": 59.8662645,
+  "lon": 30.4673110,
+  "tags": {
+    "colour": "green",
+    "name": "Пролетарская",
+    "name:de": "Proletarskaja",
+    "name:en": "Proletarskaya",
+    "name:fi": "Proletarskaja",
+    "name:ru": "Пролетарская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2059086"
+  }
+},
+{
+  "type": "node",
+  "id": 249307183,
+  "lat": 59.9342459,
+  "lon": 30.3302040,
+  "tags": {
+    "colour": "green",
+    "name": "Гостиный двор",
+    "name:de": "Gostiny Dwor",
+    "name:en": "Gostiny Dvor",
+    "name:fi": "Gostinyi Dvor",
+    "name:ru": "Гостиный двор",
+    "name:zh": "瓦格斯特",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wheelchair": "limited",
+    "wikidata": "Q1538679"
+  }
+},
+{
+  "type": "node",
+  "id": 249307184,
+  "lat": 59.9487335,
+  "lon": 30.2379349,
+  "tags": {
+    "colour": "green",
+    "name": "Приморская",
+    "name:de": "Primorskaja",
+    "name:en": "Primorskaya",
+    "name:fi": "Primorskaja",
+    "name:ru": "Приморская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2542458"
+  }
+},
+{
+  "type": "node",
+  "id": 249898478,
+  "lat": 59.8926493,
+  "lon": 30.3180710,
+  "tags": {
+    "colour": "blue",
+    "name": "Московские ворота",
+    "name:de": "Moskowskije Worota",
+    "name:en": "Moskovskye Vorota",
+    "name:fi": "Moskovskije Vorota",
+    "name:ru": "Московские ворота",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2148112"
+  }
+},
+{
+  "type": "node",
+  "id": 249902972,
+  "lat": 59.9053289,
+  "lon": 30.3179700,
+  "tags": {
+    "colour": "blue",
+    "name": "Фрунзенская",
+    "name:de": "Frunsenskaja",
+    "name:en": "Frunzenskaya",
+    "name:fi": "Frunzenskaja",
+    "name:ru": "Фрунзенская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2315687"
+  }
+},
+{
+  "type": "node",
+  "id": 249904416,
+  "lat": 59.8802598,
+  "lon": 30.3190724,
+  "tags": {
+    "colour": "blue",
+    "name": "Электросила",
+    "name:de": "Elektrosila",
+    "name:en": "Elektrosila",
+    "name:fi": "Elektrosila",
+    "name:ru": "Электросила",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2315696"
+  }
+},
+{
+  "type": "node",
+  "id": 258760945,
+  "lat": 59.8665723,
+  "lon": 30.2609658,
+  "tags": {
+    "colour": "red",
+    "name": "Автово",
+    "name:de": "Awtowo",
+    "name:en": "Avtovo",
+    "name:fi": "Avtovo",
+    "name:ru": "Автово",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2016654"
+  }
+},
+{
+  "type": "node",
+  "id": 291557399,
+  "lat": 59.9338892,
+  "lon": 30.3283623,
+  "tags": {
+    "colour": "blue",
+    "layer": "-5",
+    "name": "Невский проспект",
+    "name:de": "Newski-Prospekt",
+    "name:en": "Nevskiy Prospekt",
+    "name:fi": "Nevski prospekt",
+    "name:ru": "Невский проспект",
+    "name:zh": "涅夫斯基大街",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1526483"
+  }
+},
+{
+  "type": "node",
+  "id": 298969888,
+  "lat": 59.8296785,
+  "lon": 30.3754571,
+  "tags": {
+    "colour": "blue",
+    "name": "Купчино",
+    "name:de": "Kuptschino",
+    "name:en": "Kupchino",
+    "name:ru": "Купчино",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2053224",
+    "wikipedia": "ru:Купчино (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 312393508,
+  "lat": 59.9076378,
+  "lon": 30.3024081,
+  "tags": {
+    "colour": "red",
+    "name": "Балтийская",
+    "name:de": "Baltisch",
+    "name:en": "Baltic",
+    "name:fi": "Baltijskaja",
+    "name:ru": "Балтийская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2280543"
+  }
+},
+{
+  "type": "node",
+  "id": 313475956,
+  "lat": 59.8997076,
+  "lon": 30.2740578,
+  "tags": {
+    "colour": "red",
+    "name": "Нарвская",
+    "name:de": "Narwskaja",
+    "name:en": "Narvskaya",
+    "name:fi": "Narvskaja",
+    "name:ru": "Нарвская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1905556"
+  }
+},
+{
+  "type": "node",
+  "id": 313476034,
+  "lat": 59.8782349,
+  "lon": 30.2605758,
+  "tags": {
+    "colour": "red",
+    "name": "Кировский завод",
+    "name:de": "Kirowski Sawod",
+    "name:en": "Kirovskiy Zavod",
+    "name:fi": "Kirovski zavod",
+    "name:ru": "Кировский завод",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2188273"
+  }
+},
+{
+  "type": "node",
+  "id": 315025552,
+  "lat": 59.8675916,
+  "lon": 30.3214952,
+  "tags": {
+    "colour": "blue",
+    "name": "Парк Победы",
+    "name:de": "Park Pobedy",
+    "name:en": "Park Pobedy",
+    "name:fi": "Park Pobedy",
+    "name:ru": "Парк Победы",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2454785",
+    "wikipedia": "ru:Парк Победы (станция метро, Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 315051539,
+  "lat": 59.8328825,
+  "lon": 30.3514432,
+  "tags": {
+    "colour": "blue",
+    "name": "Звёздная",
+    "name:de": "Swjosdnaja",
+    "name:en": "Zvyozdnaya",
+    "name:fi": "Zvjozdnaja",
+    "name:ru": "Звёздная",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q304248"
+  }
+},
+{
+  "type": "node",
+  "id": 344890527,
+  "lat": 59.8506391,
+  "lon": 30.2683897,
+  "tags": {
+    "colour": "red",
+    "name": "Ленинский проспект",
+    "name:de": "Leninski-Prospekt",
+    "name:en": "Leninskiy Prospekt",
+    "name:fi": "Leninski Prospekt",
+    "name:ru": "Ленинский проспект",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2089886"
+  }
+},
+{
+  "type": "node",
+  "id": 344890631,
+  "lat": 59.8419484,
+  "lon": 30.2520174,
+  "tags": {
+    "colour": "red",
+    "name": "Проспект Ветеранов",
+    "name:de": "Prospekt Weteranow",
+    "name:en": "Prospekt Veteranov",
+    "name:fi": "Prospekt Veteranov",
+    "name:ru": "Проспект Ветеранов",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1967220"
+  }
+},
+{
+  "type": "node",
+  "id": 359711515,
+  "lat": 59.8944447,
+  "lon": 30.3592894,
+  "tags": {
+    "colour": "purple",
+    "name": "Волковская",
+    "name:de": "Wolkowskaja",
+    "name:en": "Volkovskaya",
+    "name:fi": "Volkovskaja",
+    "name:ru": "Волковская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2426945"
+  }
+},
+{
+  "type": "node",
+  "id": 359711518,
+  "lat": 59.9139392,
+  "lon": 30.3500211,
+  "tags": {
+    "colour": "purple",
+    "name": "Обводный канал",
+    "name:de": "Obwodny Kanal",
+    "name:en": "Obvodny Kanal",
+    "name:fi": "Obvodnyi kanal",
+    "name:ru": "Обводный канал",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2010-12-30",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2321839",
+    "wikipedia": "ru:Обводный канал (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 648222978,
+  "lat": 59.8514032,
+  "lon": 30.3223819,
+  "tags": {
+    "colour": "blue",
+    "name": "Московская",
+    "name:de": "Moskowskaja",
+    "name:en": "Moskovskaya",
+    "name:fi": "Moskovskaja",
+    "name:ru": "Московская",
+    "name:zh": "莫斯科街",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2454798"
+  }
+},
+{
+  "type": "node",
+  "id": 695134915,
+  "lat": 59.8686230,
+  "lon": 30.3818778,
+  "tags": {
+    "colour": "purple",
+    "name": "Международная",
+    "name:de": "Meschdunarodnaja",
+    "name:en": "Mezhdunarodnaya",
+    "name:ru": "Международная",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2012-12-28",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1971134",
+    "wikipedia": "ru:Международная (станция метро, Санкт-Петербург)"
+  }
+},
+{
+  "type": "node",
+  "id": 695134921,
+  "lat": 59.8823279,
+  "lon": 30.3703188,
+  "tags": {
+    "colour": "purple",
+    "name": "Бухарестская",
+    "name:de": "Bucharestskaja",
+    "name:en": "Bukharastskaya",
+    "name:ru": "Бухарестская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2012-12-28",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1970610"
+  }
+},
+{
+  "type": "node",
+  "id": 1109163153,
+  "lat": 59.9260656,
+  "lon": 30.3179991,
+  "tags": {
+    "colour": "orange",
+    "name": "Спасская",
+    "name:de": "Spasskaja",
+    "name:en": "Spasskaya",
+    "name:fi": "Spasskaja",
+    "name:ru": "Спасская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2009-03-07",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2424515",
+    "wikipedia": "ru:Спасская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 1440436739,
+  "lat": 59.9361378,
+  "lon": 30.3138916,
+  "tags": {
+    "colour": "purple",
+    "name": "Адмиралтейская",
+    "name:de": "Admiralteiskaja",
+    "name:en": "Admiralteiskaya",
+    "name:fi": "Admiralteiskaja",
+    "name:ru": "Адмиралтейская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2011-12-28",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2477938",
+    "wikipedia": "ru:Адмиралтейская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 1669571976,
+  "lat": 59.9151867,
+  "lon": 30.3173450,
+  "tags": {
+    "colour": "blue",
+    "loc_name": "Техноложка",
+    "name": "Технологический институт 1",
+    "name:de": "Technologitscheski Institut 1",
+    "name:en": "Teknologicheskiy Institut 1",
+    "name:fi": "Tehnologitšeski Institut 1",
+    "name:ru": "Технологический институт 1",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1461960"
+  }
+},
+{
+  "type": "node",
+  "id": 1669571977,
+  "lat": 59.9153356,
+  "lon": 30.3183867,
+  "tags": {
+    "colour": "blue",
+    "loc_name": "Техноложка",
+    "name": "Технологический институт 2",
+    "name:de": "Technologitscheski Institut 2",
+    "name:en": "Teknologicheskiy Institut 2",
+    "name:fi": "Tehnologitšeski Institut 2",
+    "name:ru": "Технологический институт 2",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1461960"
+  }
+},
+{
+  "type": "node",
+  "id": 1984329786,
+  "lat": 59.8650428,
+  "lon": 30.4703369,
+  "tags": {
+    "colour": "green",
+    "entrance": "main",
+    "name": "Пролетарская",
+    "name:de": "Proletarskaja",
+    "name:en": "Proletarskaya",
+    "name:fi": "Proletarskaja",
+    "name:ru": "Пролетарская",
+    "network": "Петербургский метрополитен",
+    "opening_hours": "Mo-Su 05:35-00:30",
+    "operator": "Петербургский метрополитен",
+    "railway": "subway_entrance",
+    "station": "subway",
+    "transport": "subway"
+  }
+},
+{
+  "type": "node",
+  "id": 2036827694,
+  "lat": 59.9572163,
+  "lon": 30.3553493,
+  "tags": {
+    "colour": "red",
+    "name": "Площадь Ленина",
+    "name:de": "Ploschtschad Lenina",
+    "name:en": "Lenin Square",
+    "name:fi": "Ploštšad Lenina",
+    "name:ru": "Площадь Ленина",
+    "name:zh": "列宁广场",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2430298"
+  }
+},
+{
+  "type": "node",
+  "id": 2036840002,
+  "lat": 59.9693707,
+  "lon": 30.3495100,
+  "tags": {
+    "colour": "red",
+    "name": "Выборгская",
+    "name:de": "Wyborgskaja",
+    "name:en": "Vyborgskaya",
+    "name:fi": "Vyborgskaja",
+    "name:ru": "Выборгская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q579642"
+  }
+},
+{
+  "type": "node",
+  "id": 2036851507,
+  "lat": 60.0014920,
+  "lon": 30.3673518,
+  "tags": {
+    "colour": "red",
+    "name": "Площадь Мужества",
+    "name:de": "Ploschtschad Muschestwa",
+    "name:en": "Ploschad' Muzhestva",
+    "name:fi": "Ploštšad Mužestva",
+    "name:ru": "Площадь Мужества",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1838062"
+  }
+},
+{
+  "type": "node",
+  "id": 2036864189,
+  "lat": 60.0098587,
+  "lon": 30.3742911,
+  "tags": {
+    "colour": "red",
+    "name": "Политехническая",
+    "name:de": "Politechnitscheskaja",
+    "name:en": "Politekhnicheskaya",
+    "name:fi": "Politehnitšeskaja",
+    "name:ru": "Политехническая",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2262861"
+  }
+},
+{
+  "type": "node",
+  "id": 2036865229,
+  "lat": 60.0121080,
+  "lon": 30.3927401,
+  "tags": {
+    "colour": "red",
+    "int_name": "Akademicheskaya",
+    "name": "Академическая",
+    "name:de": "Akademitscheskaja",
+    "name:en": "Akademicheskaya",
+    "name:fi": "Akademitšeskaja",
+    "name:ru": "Академическая",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2315672"
+  }
+},
+{
+  "type": "node",
+  "id": 2036899257,
+  "lat": 60.0332461,
+  "lon": 30.4168173,
+  "tags": {
+    "colour": "red",
+    "int_name": "Grazhdanskiy prospekt",
+    "name": "Гражданский проспект",
+    "name:de": "Graschdanski Prospekt",
+    "name:en": "Grazhdanskiy Prospekt",
+    "name:fi": "Graždanski prospekt",
+    "name:ru": "Гражданский проспект",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2316707",
+    "wikipedia": "ru:Гражданский проспект (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 2080777576,
+  "lat": 59.9218836,
+  "lon": 30.3324969,
+  "tags": {
+    "colour": "purple",
+    "name": "Звенигородская",
+    "name:ru": "Звенигородская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2310323",
+    "wikipedia": "ru:Звенигородская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 2194446558,
+  "lat": 59.9212978,
+  "lon": 30.3328570,
+  "tags": {
+    "colour": "red",
+    "name": "Пушкинская",
+    "name:ru": "Пушкинская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2079447"
+  }
+},
+{
+  "type": "node",
+  "id": 2238315693,
+  "lat": 60.0669104,
+  "lon": 30.3340207,
+  "tags": {
+    "colour": "blue",
+    "name": "Парнас",
+    "name:de": "Parnas",
+    "name:en": "Parnas",
+    "name:ru": "Парнас",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q2454808",
+    "wikipedia": "ru:Парнас (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 2468455392,
+  "lat": 59.9431799,
+  "lon": 30.2753620,
+  "tags": {
+    "colour": "green",
+    "int_name": "Vasileostrovskaya",
+    "name": "Василеостровская",
+    "name:ru": "Василеостровская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q640755",
+    "wikipedia": "ru:Василеостровская (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 3361808916,
+  "lat": 59.8603107,
+  "lon": 30.2308864,
+  "tags": {
+    "construction": "subway",
+    "name": "Юго-Западная",
+    "railway": "construction",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4533660"
+  }
+},
+{
+  "type": "node",
+  "id": 3361808917,
+  "lat": 59.8811514,
+  "lon": 30.2667213,
+  "tags": {
+    "construction": "subway",
+    "name": "Путиловская",
+    "railway": "construction",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4384339"
+  }
+},
+{
+  "type": "node",
+  "id": 3361808918,
+  "lat": 59.8760395,
+  "lon": 30.2937345,
+  "tags": {
+    "construction": "subway",
+    "name": "Броневая",
+    "railway": "construction",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4096920"
+  }
+},
+{
+  "type": "node",
+  "id": 4179047476,
+  "lat": 59.9431101,
+  "lon": 30.3607773,
+  "tags": {
+    "colour": "red",
+    "name": "Чернышевская",
+    "name:de": "Tschernyschewskaja",
+    "name:en": "Chernyshevskaya",
+    "name:fi": "Tšernyševskaja",
+    "name:ru": "Чернышевская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2280581"
+  }
+},
+{
+  "type": "node",
+  "id": 4709806342,
+  "lat": 59.8560966,
+  "lon": 30.3961492,
+  "tags": {
+    "colour": "purple",
+    "construction": "station",
+    "name": "Проспект Славы",
+    "operator": "Петербургский метрополитен",
+    "railway": "construction",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4381356"
+  }
+},
+{
+  "type": "node",
+  "id": 4709806343,
+  "lat": 59.8401649,
+  "lon": 30.4099628,
+  "tags": {
+    "colour": "purple",
+    "construction": "station",
+    "name": "Дунайская",
+    "name:en": "Dunayskaya",
+    "name:ru": "Дунайская",
+    "operator": "Петербургский метрополитен",
+    "railway": "construction",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4170756"
+  }
+},
+{
+  "type": "node",
+  "id": 4709806344,
+  "lat": 59.8213116,
+  "lon": 30.4315490,
+  "tags": {
+    "colour": "purple",
+    "name": "Шушары",
+    "name:en": "Shushary",
+    "name:ru": "Шушары",
+    "operator": "Петербургский метрополитен",
+    "proposed": "station",
+    "railway": "construction",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4528147"
+  }
+},
+{
+  "type": "node",
+  "id": 4946155636,
+  "lat": 59.9226000,
+  "lon": 30.3845442,
+  "tags": {
+    "colour": "orange",
+    "name": "Площадь Александра Невского 2",
+    "name:de": "Ploschtschad Alexandra Newskogo-2",
+    "name:en": "Ploschad' Alexandra Nevskogo-2",
+    "name:es": "Ploshchad' Aleksanra Nevskogo 2",
+    "name:fi": "Ploštšad Aleksandra Nevskogo 2",
+    "name:ru": "Площадь Александра Невского 2",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1860079",
+    "wikipedia": "ru:Площадь Александра Невского-2 (станция метро)"
+  }
+},
+{
+  "type": "node",
+  "id": 5369186762,
+  "lat": 59.9305438,
+  "lon": 30.3576212,
+  "tags": {
+    "colour": "green",
+    "name": "Маяковская",
+    "name:de": "Majakowskaja",
+    "name:en": "Mayakovskaya",
+    "name:fi": "Majakovskaja",
+    "name:ru": "Маяковская",
+    "name:zh": "玛雅科夫斯卡娅",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1886055"
+  }
+},
+{
+  "type": "node",
+  "id": 5369186787,
+  "lat": 59.9260840,
+  "lon": 30.3478731,
+  "tags": {
+    "colour": "red",
+    "name": "Владимирская",
+    "name:de": "Wladimirskaja",
+    "name:en": "Vladimirskaya",
+    "name:fi": "Vladimirskaja",
+    "name:ru": "Владимирская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q745199"
+  }
+},
+{
+  "type": "node",
+  "id": 5385958164,
+  "lat": 59.9848440,
+  "lon": 30.3443186,
+  "tags": {
+    "colour": "red",
+    "name": "Лесная",
+    "name:de": "Lesnaja",
+    "name:en": "Lesnaya",
+    "name:fi": "Lesnaja",
+    "name:ru": "Лесная",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q1827075"
+  }
+},
+{
+  "type": "node",
+  "id": 5614907439,
+  "lat": 59.9719575,
+  "lon": 30.2119346,
+  "tags": {
+    "colour": "green",
+    "name": "Новокрестовская",
+    "name:de": "Novokrestovskaja",
+    "name:en": "Novokrestovskaya",
+    "name:fi": "Novokrestovskaja",
+    "name:ru": "Новокрестовская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2018-05-26",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4324285"
+  }
+},
+{
+  "type": "node",
+  "id": 5628614983,
+  "lat": 59.8980817,
+  "lon": 30.4217648,
+  "tags": {
+    "colour": "green",
+    "name": "Елизаровская",
+    "name:de": "Jelisarowskaja",
+    "name:en": "Yelizarovskaya",
+    "name:fi": "Jelisarovskaja",
+    "name:ru": "Елизаровская",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q2711214"
+  }
+},
+{
+  "type": "node",
+  "id": 5644650789,
+  "lat": 59.9873791,
+  "lon": 30.2022463,
+  "tags": {
+    "colour": "green",
+    "name": "Беговая",
+    "name:de": "Begovaja",
+    "name:en": "Begovaya",
+    "name:fi": "Begovaja",
+    "name:ru": "Беговая",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "start_date": "2018-05-26",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4473867"
+  }
+},
+{
+  "type": "node",
+  "id": 5898596228,
+  "lat": 60.0496345,
+  "lon": 30.3330320,
+  "tags": {
+    "colour": "blue",
+    "layer": "-1",
+    "name": "Проспект Просвещения",
+    "name:de": "Prospekt Prosweschtschenija",
+    "name:en": "Prospekt Prosvescheniya",
+    "name:fi": "Prospekt Prosveštšenija",
+    "name:ru": "Проспект Просвещения",
+    "network": "Петербургский метрополитен",
+    "operator": "Петербургский метрополитен",
+    "railway": "station",
+    "station": "subway",
+    "transport": "subway",
+    "wikidata": "Q4381327",
+    "wikipedia": "ru:Проспект Просвещения"
+  }
+}
+
+  ]
+}
