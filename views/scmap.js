@@ -1,8 +1,8 @@
 // define the coordinates for the city to show and the zoom level
-// var spbmap = L.map('mapspb').setView([59.939, 30.314], 13);
-var spbmap = L.map('map', {
-    crs: L.CRS.Simple
-});
+var spbmap = L.map('mapspb').setView([59.939, 30.314], 13);
+// var spbmap = L.map('map', {
+    // crs: L.CRS.Simple
+// });
 
 // app the map to the web site
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -87,7 +87,7 @@ L.geoJSON(myLines, {
           });
         return circle;
     }
-})//.addTo(spbmap);
+}).addTo(spbmap);
 console.log(redLine)
 
 console.log(redLine[0])
