@@ -12,8 +12,12 @@ app.get('/', function (req, res) {
   res.sendfile('index.html');
 });
 
-app.get('/hello', function (req, res) {
-  res.render('hello', { title: 'Hello', message: 'Hello there!' })
+app.get('/geomap', function (req, res) {
+  res.render('geomap', { title: 'Geographic Map', message: 'there' })
+});
+
+app.get('/scmap', function (req, res) {
+  res.render('scmap', { title: 'Scematic Map', message: 'there' })
 });
 
 app.listen(3000, function(){
