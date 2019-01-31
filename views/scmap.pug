@@ -10,12 +10,27 @@ html
         |
         script(src='https://unpkg.com/leaflet@1.4.0/dist/leaflet.js' integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
         crossorigin="")
+        |
+        |
         style
             include style.css
-      
+        |
+        |
+    |
+    |
     body
-        h1= message  
-        button(type='button' class='button' value="Draw Lines" onclick="redraw()")
+        |            
+        |
+        div(style = "margin: auto; width: 40%; text-align: center")
+            |
+            |
+            h1= message  
+            |
+            |
+            button(type='button' style="width: 100px; height: 20px;" onclick="redraw()")="Draw Lines"
+            |
+            |
+            button(type='button' style="width: 180px; height: 20px;" onclick="redraw()")="Show Points of Interest"
         |
         |
         div(id = "mapspb" )

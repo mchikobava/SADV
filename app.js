@@ -13,11 +13,11 @@ app.get('/', function (req, res) {
 });
 
 app.get('/geomap', function (req, res) {
-  res.render('geomap', { title: 'Geographic Map', message: 'there' })
+  res.render('geomap', { title: 'Geographic Map', message: 'Geographic Map' })
 });
 
 app.get('/scmap', function (req, res) {
-  res.render('scmap', { title: 'Scematic Map', message: 'there' })
+  res.render('scmap', { title: 'Scematic Map', message: 'Scematic Map' })
 });
 
 app.listen(3000, function(){

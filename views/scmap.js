@@ -77,7 +77,6 @@ L.geoJSON(myLines, {
             mousedown: function () {
                 spbmap.on('mousemove', function (e) {
                     var index;
-                    console.log(circle.options.fillColor);
                     switch (circle.options.fillColor) {
                         case '#FF0000':
                             index = redLine.indexOf(circle.getLatLng());
