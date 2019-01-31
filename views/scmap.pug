@@ -12,8 +12,12 @@ html
         crossorigin="")
         style
             include style.css
+      
     body
-        h1= message
+        h1= message  
+        button(type='button' class='button' value="Draw Lines" onclick="redraw()")
+        |
+        |
         div(id = "mapspb" )
         script
             include points.geojson
