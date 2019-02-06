@@ -11,7 +11,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 // auxilliarry function to add popups to the stations
 function onEachFeature(feature, layer) {
-    console.log(feature.properties)
+    // console.log(feature.properties)
     // check whether it is a point
     if (feature.properties.tags != undefined) {
         if (feature.properties && feature.properties.tags.name) {
@@ -20,6 +20,11 @@ function onEachFeature(feature, layer) {
         }
     }
 
+}
+
+function goToScMap() {
+    // console.log("will go to scmap")
+    window.open('http://localhost:3000/scmap', true)
 }
 
 // add lines to the map

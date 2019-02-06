@@ -1,8 +1,5 @@
 // define the coordinates for the city to show and the zoom level
 var spbmap = L.map('mapspb').setView([59.939, 30.314], 13);
-// var spbmap = L.map('map', {
-// crs: L.CRS.Simple
-// });
 
 // app the map to the web site
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -41,7 +38,7 @@ function onEachFeature(feature, layer) {
 
 }
 
-// add lines to the map
+// add stations to the map
 L.geoJSON(myLines, {
     onEachFeature: onEachFeature,
     pointToLayer: function (feature, latlng) {
@@ -170,3 +167,22 @@ function clearPolylines() {
     spbmap.removeLayer(polylines);
 }
 
+function showPointsOfInterest() {
+
+    L.Icon.Default.imagePath = 'http://localhost:3000/';
+
+    var museumIcon = L.icon({
+        iconUrl: L.Icon.Default.imagePath + 'museum.png',
+    
+        iconSize:     [40, 40], // size of the icon
+        iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+        popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+    });
+
+    L.geoJSON(museums, {
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {icon: museumIcon});
+        },
+        onEachFeature: onEachFeature
+    }).addTo(spbmap);
+}

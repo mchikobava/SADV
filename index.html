@@ -1,5 +1,4 @@
 <html>
-
 <head>
     <title>Map</title>
     <base href="">
@@ -7,20 +6,21 @@
         crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
         crossorigin=""></script>
-        <!-- <script src="jquery-2.1.1.min.js"></script>  -->
-    <style>
-        #mapspb {
-            height: 1500;
-            width: 1500px
-        }
-    </style>
+    <style>#mapspb {
+                height: 80%;
+                width: 90%;
+                margin: 70px;
+            }</style>
 </head>
 
 <body>
-    There will be a <%= name %>
+    <div style="margin: auto; width: 40%; text-align: center">
+        <h1> Welcome to the Map of Sankt Petersburg</h1>
+        <button type="button" style="width: 300px; height: 20px;" onclick="showMetro()">Show Metro Lines</button>
+    </div>
     <div id="mapspb"> map </div>
     <script>
-        // var spbmap = L.map('mapspb').setView([54.7104, 20.4522], 13);
+
         var spbmap = L.map('mapspb').setView([59.939, 30.314], 13);
         var nameOfJSONFile = "points.json";
         L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -30,30 +30,11 @@
             accessToken: 'pk.eyJ1IjoiaHl1cHJpIiwiYSI6ImNqcjN0a3JrczB6czIzeHJwaGt5d2R4eDgifQ.WPlJ3g-F4576vC7L4RZptQ'
         }).addTo(spbmap);
 
-        var myLines = [{
-            "type": "LineString",
-            "coordinates": [[30.314, 59.939], [30.315, 59.94], [ 30.316, 59.941]]
-        }, {
-            "type": "LineString",
-            "coordinates": [[30.310, 59.942], [30.311, 59.943], [30.312, 59.943]]
-        }];
-
-        var myStyle = {
-            "color": "#ff7800",
-            "weight": 5,
-            "opacity": 0.65
-        };
-
-        // load GeoJSON from an external file
-        // $.getJSON("points.geojson", function (data) {
-        //     // add GeoJSON layer to the map once the file is loaded
-        //     L.geoJson(data).addTo(map);
-        // });
+        function showMetro() {
+            window.open('http://localhost:3000/geomap', true)
+        }
 
 
-       L.geoJSON(myLines, {
-           style: myStyle
-       }).addTo(spbmap);
     </script>
 </body>
 

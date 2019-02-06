@@ -30,10 +30,11 @@ html
             button(type='button' style="width: 100px; height: 20px;" onclick="redraw()")="Draw Lines"
             |
             |
-            button(type='button' style="width: 180px; height: 20px;" onclick="redraw()")="Show Points of Interest"
+            button(type='button' style="width: 180px; height: 20px;" onclick="showPointsOfInterest()")="Show Points of Interest"
         |
         |
         div(id = "mapspb" )
         script
             include points.geojson
             include scmap.js
+            include museums.geojson
